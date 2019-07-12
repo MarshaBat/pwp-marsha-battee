@@ -13,7 +13,7 @@
 		</div>
 
 		<div>
-			<h3>PURPORSE, AUDIENCE and GOAL</h3>
+			<h3>PURPOSE, AUDIENCE and GOAL</h3>
 			<p><strong>Our Purpose</strong> - We design and develop bold, innovative technology solutions to help survivor support agencies
 				reach out and engage with their clients during their reporting and healing process.</p>
 			<p><strong>Our Audience</strong> - Our audience is composed of stakeholders and key technology and financial decision makers in
@@ -35,16 +35,20 @@
 				</ul>
 				<img src="lindaphoto.jpg" alt="Picture of Linda Collins"/>
 			<p><strong>About</strong></p>
-			<p>Linda has been the Executive Director of Fairfax Medical Forensic Providers (FMFP) for 12 years. Her career
+
+			<p>Linda has been the Executive Director of Fairfax Medical Forensic Providers (FMFNP) for 12 years. Her career
 				in nursing began on a Mother/Baby unit in 1998. Since that time, Linda has worked in labor and delivery,
 				emergency departments, earned advanced degrees, and worked as a Women’s Health Nurse Practitioner (WHNP). In
 				2009, Linda found her calling working as a forensic nurse and became a board-certified Sexual Assault Nurse
 				Examiner for Adults and Pediatrics (SANE-A and SANE-P, respectively).</p>
+
 			<p>Just 2 years ago, Linda was promoted to the role of Executive Director in her organization. And since her
-				time at FMFP, her organization has had a limited online presence with a website that was built around the
+				time at FMFNP, her organization has had a limited online presence with a website that was built around the
 				time that Linda became an employee.</p>
-			<p>Linda is seeking to update FMFP’s web presence and create a user friendly site, highlighting resources in
+
+			<p>Linda is seeking to update FMFNP’s web presence and create a user friendly site, highlighting resources in
 				the community for users.</p>
+
 			<p><strong>Goal</strong></p>
 				<ul>
 					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic violence.</li>
@@ -55,11 +59,13 @@
 					<li>To connect survivors with reporting and healing resources for survivors.</li>
 					<li>To keep stakeholders up-to-date on FMFP’s initiatives and survivor services.</li>
 				</ul>
+
 			<p><strong>Tech</strong></p>
 				<ul>
 					<li>Savviness: Excellent.</li>
 					<li>Social Network: Facebook for friends and family.</li>
 				</ul>
+
 			<p><strong>Frustrations</strong></p>
 				<ul>
 					<li>Linda is trying to find the money in her budget to pay for website design and development.</li>
@@ -71,8 +77,12 @@
 						there’s no need for the expense.
 					</li>
 				</ul>
-		</div>
 
+			<p><strong>User Story</strong></p>
+			<ul>
+				<li>As a user, Linda would need to be able to understand company's design and development services and how to contact company.</li>
+			</ul>
+		</div>
 
 	</body>
 </html>
