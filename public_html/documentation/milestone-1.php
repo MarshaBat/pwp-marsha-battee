@@ -33,6 +33,7 @@
 					<li>Job: Executive Director of a Fairfax Medical Forensic Nursing Providers</li>
 					<li>Family: Married with 3 children (male, 2 in college and 1 is a nurse)</li>
 				</ul>
+				<img src="lindaphoto.jpg" alt="Picture of Linda Collins"/>
 			<p><strong>About</strong></p>
 			<p>Linda has been the Executive Director of Fairfax Medical Forensic Providers (FMFP) for 12 years. Her career
 				in nursing began on a Mother/Baby unit in 1998. Since that time, Linda has worked in labor and delivery,
