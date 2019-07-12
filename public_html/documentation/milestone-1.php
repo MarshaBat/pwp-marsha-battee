@@ -14,6 +14,7 @@
 
 		<div>
 			<h3>PURPOSE, AUDIENCE and GOAL</h3>
+			<p><strong>Our Website</strong> - A web design and development firm.</p>
 			<p><strong>Our Purpose</strong> - We design and develop bold, innovative technology solutions to help survivor support agencies
 				reach out and engage with their clients during their reporting and healing process.</p>
 			<p><strong>Our Audience</strong> - Our audience is composed of stakeholders and key technology and financial decision makers in
@@ -30,13 +31,13 @@
 					<li>Age: 47</li>
 					<li>Location: Fairfax, VA</li>
 					<li>Education: Graduate of VA schools and universities</li>
-					<li>Job: Executive Director of a Fairfax Medical Forensic Nursing Providers</li>
+					<li>Job: Executive Director of a nonprofit, Fairfax Medical Forensic Nursing Providers</li>
 					<li>Family: Married with 3 children (male, 2 in college and 1 is a nurse)</li>
 				</ul>
 				<img src="lindaphoto.jpg" alt="Picture of Linda Collins"/>
 			<p><strong>About</strong></p>
 
-			<p>Linda has been the Executive Director of Fairfax Medical Forensic Providers (FMFNP) for 12 years. Her career
+			<p>Linda has been the Executive Director of Fairfax Medical Forensic Nurse Providers (FMFNP) for 12 years. Her career
 				in nursing began on a Mother/Baby unit in 1998. Since that time, Linda has worked in labor and delivery,
 				emergency departments, earned advanced degrees, and worked as a Women’s Health Nurse Practitioner (WHNP). In
 				2009, Linda found her calling working as a forensic nurse and became a board-certified Sexual Assault Nurse
@@ -53,17 +54,18 @@
 				<ul>
 					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic violence.</li>
 				</ul>
+
 			<p><strong>Use of Site</strong></p>
 				<ul>
-					<li>To provide information on services provided FMFP.</li>
+					<li>To provide information on services provided FMFNP.</li>
 					<li>To connect survivors with reporting and healing resources for survivors.</li>
-					<li>To keep stakeholders up-to-date on FMFP’s initiatives and survivor services.</li>
+					<li>To keep stakeholders up-to-date on FMFNP’s initiatives and survivor services.</li>
 				</ul>
 
 			<p><strong>Tech</strong></p>
 				<ul>
 					<li>Savviness: Excellent.</li>
-					<li>Social Network: Facebook for friends and family.</li>
+					<li>Social Network: Only Facebook for friends and family.</li>
 				</ul>
 
 			<p><strong>Frustrations</strong></p>
@@ -80,7 +82,7 @@
 
 			<p><strong>User Story</strong></p>
 			<ul>
-				<li>As a user, Linda would need to be able to understand company's design and development services and how to contact company.</li>
+				<li>As a user, Linda would need to be able to understand our company's design and development services and how to contact company.</li>
 			</ul>
 		</div>
 
