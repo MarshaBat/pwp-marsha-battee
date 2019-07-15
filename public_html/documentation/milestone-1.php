@@ -21,7 +21,8 @@
 				forensic programs and medical, legal, and support agencies that care for survivors of sexual and domestic
 				violence.
 			<p>
-			<p><strong>Our Goal</strong> - Our website is positioned to attract clients who need website design and development in the above stated agencies.</p>
+			<p><strong>Our Goal</strong> - Our website is positioned to attract clients who need website design and
+				development in the above stated agencies.</p>
 		</div>
 
 		<div>
@@ -34,7 +35,7 @@
 					<li>Job: Executive Director of a nonprofit, Fairfax Medical Forensic Nursing Providers</li>
 					<li>Family: Married with 3 children (all male, 2 in college and 1 is a nurse)</li>
 				</ul>
-				<img src="lindaphoto.jpg" alt="Linda Collins">
+				<img src="lindaphoto.jpg" alt="Linda Collins"/>
 			<p><strong>About</strong></p>
 
 			<p>Linda has been the Executive Director of Fairfax Medical Forensic Nurse Providers (FMFNP) for 12 years. Her career
@@ -49,10 +50,14 @@
 
 			<p>Linda is seeking to update FMFNP’s web presence and create a user friendly site that highlights resources in
 				the community for users and serves as a resource to educate stakeholders on FMFNP's initiatives.</p>
+		</div>
 
+		<div>
 			<p><strong>Goal</strong></p>
 				<ul>
-					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic violence and keep stakeholders up-to-date.</li>
+					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic
+						violence and keep stakeholders up-to-date.
+					</li>
 				</ul>
 
 			<p><strong>Use of Site</strong></p>
@@ -82,7 +87,9 @@
 
 			<p><strong>User Story</strong></p>
 			<ul>
-				<li>As a user, Linda would need to be able to understand our company's design and development services and how to contact company in order to secure our company's services.</li>
+				<li>As a user, Linda would need to be able to understand our company's design and development services and
+					how to contact company in order to secure our company's services.
+				</li>
 			</ul>
 		</div>
 
