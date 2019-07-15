@@ -32,9 +32,9 @@
 					<li>Location: Fairfax, VA</li>
 					<li>Education: Graduate of VA schools and universities</li>
 					<li>Job: Executive Director of a nonprofit, Fairfax Medical Forensic Nursing Providers</li>
-					<li>Family: Married with 3 children (male, 2 in college and 1 is a nurse)</li>
+					<li>Family: Married with 3 children (all male, 2 in college and 1 is a nurse)</li>
 				</ul>
-				<img src="lindaphoto.jpg" alt="Picture of Linda Collins"/>
+				<img src="lindaphoto.jpg" alt="Linda Collins">
 			<p><strong>About</strong></p>
 
 			<p>Linda has been the Executive Director of Fairfax Medical Forensic Nurse Providers (FMFNP) for 12 years. Her career
@@ -47,18 +47,18 @@
 				time at FMFNP, her organization has had a limited online presence with a website that was built around the
 				time that Linda became an employee.</p>
 
-			<p>Linda is seeking to update FMFNP’s web presence and create a user friendly site, highlighting resources in
-				the community for users.</p>
+			<p>Linda is seeking to update FMFNP’s web presence and create a user friendly site that highlights resources in
+				the community for users and serves as a resource to educate stakeholders on FMFNP's initiatives.</p>
 
 			<p><strong>Goal</strong></p>
 				<ul>
-					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic violence.</li>
+					<li>Update her organization’s web presence in order to support more survivors of sexual and domestic violence and keep stakeholders up-to-date.</li>
 				</ul>
 
 			<p><strong>Use of Site</strong></p>
 				<ul>
-					<li>To provide information on services provided FMFNP.</li>
-					<li>To connect survivors with reporting and healing resources for survivors.</li>
+					<li>To provide information on services provided by FMFNP.</li>
+					<li>To connect survivors with reporting and healing resources available.</li>
 					<li>To keep stakeholders up-to-date on FMFNP’s initiatives and survivor services.</li>
 				</ul>
 
@@ -82,7 +82,7 @@
 
 			<p><strong>User Story</strong></p>
 			<ul>
-				<li>As a user, Linda would need to be able to understand our company's design and development services and how to contact company.</li>
+				<li>As a user, Linda would need to be able to understand our company's design and development services and how to contact company in order to secure our company's services.</li>
 			</ul>
 		</div>
 
