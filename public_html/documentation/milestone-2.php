@@ -22,7 +22,7 @@
 				more” button. Navigation will feature a hamburger menu that links to the various sections (listed below) of
 				this one-paged website.</p>
 			<ul>
-				<li><a href="https://wideeye.co/">Inspriation: Wide Eye</a></li>
+				<li><a href="https://wideeye.co/">Inspiration: Wide Eye</a></li>
 				<li><a href="https://www.unhcr.org/fr-fr/monpaysestuncamp/">Inspiration: UNHCR Home Page</a></li>
 				<br>
 				<img src="bannerimage1.jpg" alt="banner example at uhncr.org">
