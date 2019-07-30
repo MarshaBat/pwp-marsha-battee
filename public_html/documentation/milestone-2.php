@@ -22,6 +22,7 @@
 				more” button. Navigation will feature a hamburger menu that links to the various sections (listed below) of
 				this one-paged website.</p>
 			<ul>
+				<li><a href="https://wideeye.co/">Inspriation: Wide Eye</a></li>
 				<li><a href="https://www.unhcr.org/fr-fr/monpaysestuncamp/">Inspiration: UNHCR Home Page</a></li>
 				<br>
 				<img src="bannerimage1.jpg" alt="banner example at uhncr.org">
@@ -61,7 +62,7 @@
 				to the block occurs. This section will also identify the technology, process and context
 				used on each project-- and case study if applicable.</p>
 			<ul>
-				<li>Inspiration: __________________________</li>
+				<li><a href="https://www.w3schools.com/howto/howto_css_flip_card.asp">Example: The Flip Card</a></li>
 			</ul>
 
 		<h4>Contact</h4>
@@ -73,6 +74,7 @@
 
 		<div>
 		<h3>WIREFRAMES</h3>
+			<p>Wireframes created using Balsamiq. Animation reserved for web layout. Little to no animation will be provided on the mobile layout.</p>
 			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee"><br>
 			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee">
 
