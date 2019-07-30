@@ -73,7 +73,8 @@
 
 		<div>
 		<h3>WIREFRAMES</h3>
-			<img src="marsha-pwp-wireframe-072919.png" alt="pwp wireframe - marsha battee">
+			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee"><br>
+			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee">
 
 		</div>
 
