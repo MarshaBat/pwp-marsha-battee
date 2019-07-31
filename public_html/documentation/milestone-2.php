@@ -25,9 +25,8 @@
 			<ul>
 				<li><a href="https://wideeye.co/">Inspiration: Wide Eye</a></li>
 				<li><a href="https://www.unhcr.org/fr-fr/monpaysestuncamp/">Inspiration: UNHCR Home Page</a></li>
-				<br>
-				<img src="bannerimage1.jpg" alt="banner example at uhncr.org">
 			</ul>
+			<img src="bannerimage1.jpg" alt="banner example at uhncr.org">
 
 		<h4>About</h4>
 			<p>This section, on a nondescript background, will include our golden circle-- a brief statement on our why,
@@ -35,29 +34,28 @@
 				Likely a white or light-colored background to make the text stand out.</p>
 			<ul>
 				<li><a href="https://thebossynurse.com/">Example: About Section</a></li>
-				<br>
-				<img src="aboutsection1.jpg" alt="about section example">
 			</ul>
+			<img src="aboutsection1.jpg" alt="about section example">
 
 		<h4>Our Services</h4>
 			<p>This section will list 3-6 of our services in a color block format (at least 3, max 6).</p>
 			<ul>
 				<li><a href="https://rainn.org">Inspiration: RAINN</a></li>
-				<br>
-				<img src="colorblock1.jpg" alt="color block image from rainn.org">
 			</ul>
+			<img src="colorblock1.jpg" alt="color block image from rainn.org">
 
-		<h4>Our Process</h4>
+
+			<h4>Our Process</h4>
 			<p>This section will highlight our development process utilizing vector images with limited text descriptors.
 				These vector images and text will be on a background image that highlights portions of the design process,
 				including behind-the-scene photos, sketches, or wireframes, etc.</p>
 			<ul>
 				<li><a href="https://www.apple.com/apple-watch-series-4/">Example: Vector Images</a></li>
-				<br>
-				<img src="vectorimage1.jpg" alt="vector image from apple.com">
 			</ul>
+			<img src="vectorimage1.jpg" alt="vector image from apple.com">
 
-		<h4>Portfolio</h4>
+
+			<h4>Portfolio</h4>
 			<p>This section will showcase, in a clean and simple gallery format, 3 examples of my design/development work
 				with links to those respective websites. As you hoover over each block, either a color change or animation
 				to the block occurs. This section will also identify the technology, process and context
@@ -74,8 +72,7 @@
 		</div>
 
 		<div>
-		<h3>WIREFRAMES</h3>
-
+			<h3>WIREFRAMES</h3>
 			<p>Wireframes created using Balsamiq. Animation reserved for web layout. Little to no animation will be provided on the mobile layout.</p>
 			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee" width="800"><br>
 			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee" width="400">
