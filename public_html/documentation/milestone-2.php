@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<head>
-		<meta charset="UTF-8"/>
-		<title>PWP-Marsha-Battee</title>
-	</head>
+		<head>
+			<meta charset="UTF-8"/>
+			<title>PWP-Marsha-Battee</title>
+		</head>
 
 	<body>
 		<div>
@@ -77,8 +77,8 @@
 		<h3>WIREFRAMES</h3>
 
 			<p>Wireframes created using Balsamiq. Animation reserved for web layout. Little to no animation will be provided on the mobile layout.</p>
-			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee"><br>
-			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee">
+			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee" width="800"><br>
+			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee" width="400">
 
 		</div>
 
