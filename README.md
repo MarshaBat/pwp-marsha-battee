@@ -7,3 +7,14 @@ Great work here - your Purpose, Audience, Goal and Persona are thoughtful, detai
 Your project and files are all set up to spec and your code looks great - nice work.
 
 Your Milestone 1 passes at Tier IV. You are now clear to begin work on Milestone 2α.
+
+
+## Milestone 2a Feedback
+
+- Great job on your content strategy. 
+- You have given this a lot of thought.
+- Your wire frames are excellent.
+- There are no HTML errors.
+- Keep up the good work.
+
+Milestone 2a Grade Tier 4
