@@ -44,39 +44,26 @@
 			</div>
 		</div>
 		<!------------------------------------------------SECTION 3 - ABOUT---------------------------------------------->
-
-		<div class="container">
-			<div class="my-5">
+		<div class="about-background">
+			<div class="container mb-5">
 				<div class="row">
-
-					<div class="col-sm-12 text-center">
-						<div>
-							<div class="stat-number">
-								1
-							</div>
-							<span>in</span>
-							<div class="stat-number">
-								10
-							</div>
+					<div class="col-sm-12 text-center about-stat-panel">
+						<div class="stat-number">
+							<p>1 <span>in</span> 10</p>
 						</div>
 					</div>
 
-					<div class="col-sm-12 text-center">
+					<div class="col-sm-12 text-center about-paragraph-panel">
 						<div>
 							<p>Americans are victims of violent crime. Let's help them get access to your services.</p>
-							<p>At our Title, We design and develop websites for survivor support agencies to better engage with their clients
-								  and improve the client's reporting and healing process.</p>
+							<p>At our Title, We design and develop websites for survivor support agencies to better engage
+								with their clients
+								and improve the client's reporting and healing process.</p>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</div>
-
-
-
-
-
 
 
 		<!------------------------------------------------SECTION 4 - OUR SERVICES--------------------------------------->
