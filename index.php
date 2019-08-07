@@ -17,7 +17,6 @@
 	</head>
 	<body>
 		<!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
-		<div class="b-image">
 		<div class="container-fluid">
 			<nav class="navbar navbar-expand-xl bg-transparent m-4">
 				<a class="navbar-brand text-secondary" href="#">Our Working Title</a>
@@ -36,45 +35,75 @@
 				</div>
 			</nav>
 		</div>
-		</div>
-		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
 
-		<div>
-			<div class="container m-5">
-				<p>ABOUT US</p>
-				<p>We design and develop website solutions to help forensic nursing programs and survivor support agencies
-					reach out to and engage with their clients, improving the examination, reporting and healing process.</p>
+		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
+		<div class="jumbotron jumbotron-fluid">
+			<div class="container">
+				<h1>Our Working Title</h1>
+				<p>We help you better care for survivors</p>
 			</div>
 		</div>
-		<!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------->
+		<!------------------------------------------------SECTION 3 - ABOUT---------------------------------------------->
+
+		<div class="container">
+			<div class="my-5">
+				<div class="row">
+
+					<div class="col-sm-12 text-center">
+						<div>
+							<div class="stat-number">
+								1
+							</div>
+							<span>in</span>
+							<div class="stat-number">
+								10
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-12 text-center">
+						<div>
+							<p>Americans are victims of violent crime. Let's help them get access to your services.</p>
+							<p>At our Title, We design and develop websites for survivor support agencies to better engage with their clients
+								  and improve the client's reporting and healing process.</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+		<!------------------------------------------------SECTION 4 - OUR SERVICES--------------------------------------->
 		<div>
 			<div class="container mx-5">
 				<p>OUR SERVICES</p>
 			</div>
 		</div>
-			<div class="row" style="height: 300px;">
-
-				<div class="col-4 text-center border">
-					<div>
-						<p>Branding & Art Direction</p>
-					</div>
+		<div class="row" style="height: 300px;">
+			<div class="col-4 text-center border">
+				<div>
+					<p>Website Development & Interactive Design</p>
 				</div>
-				<div class="col-4 text-center border">
-					<div>
-						<p>Research & Website Content Strategy </p>
-					</div>
+			</div>
+			<div class="col-4 text-center border">
+				<div>
+					<p>Research & Website Content Strategy </p>
 				</div>
-				<div class="col-4 text-center border">
-					<div>
-						<p>Website Development & Interactive Design </p>
-					</div>
+			</div>
+			<div class="col-4 text-center border">
+				<div>
+					<p>Branding & Art Direction</p>
 				</div>
 			</div>
 		</div>
 
 
-
 	</body>
 </html>
 
-public_html/documentation/bannerimage1.jpg

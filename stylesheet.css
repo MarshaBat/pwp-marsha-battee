@@ -1,4 +1,9 @@
-.b-image {
-	background-image: url(pwp-b-image.jpg);
+
+.jumbotron {
+	background-image: url();
+	background-attachment: scroll;
+	background-position: center;
+	background-repeat: no-repeat;
 	background-size: cover;
+	height: 300px;
 }
