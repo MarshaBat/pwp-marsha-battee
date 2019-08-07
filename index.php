@@ -11,14 +11,15 @@
 				integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 		<!-- My Stylesheet -->
-		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 		<title>Working Title for PWP</title>
 
 	</head>
 	<body>
 		<!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
+		<div class="b-image">
 		<div class="container-fluid">
-			<nav class="navbar navbar-expand-xl bg-transparent navbar-dark rounded-lg m-4">
+			<nav class="navbar navbar-expand-xl bg-transparent m-4">
 				<a class="navbar-brand text-secondary" href="#">Our Working Title</a>
 				<button class="navbar-toggler border bg-secondary" type="button" data-toggle="collapse"
 						  data-target="#collapsibleNavbar">
@@ -35,6 +36,42 @@
 				</div>
 			</nav>
 		</div>
+		</div>
+		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
+
+		<div>
+			<div class="container m-5">
+				<p>ABOUT US</p>
+				<p>We design and develop website solutions to help forensic nursing programs and survivor support agencies
+					reach out to and engage with their clients, improving the examination, reporting and healing process.</p>
+			</div>
+		</div>
+		<!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------->
+		<div>
+			<div class="container mx-5">
+				<p>OUR SERVICES</p>
+			</div>
+		</div>
+			<div class="row" style="height: 300px;">
+
+				<div class="col-4 text-center border">
+					<div>
+						<p>Branding & Art Direction</p>
+					</div>
+				</div>
+				<div class="col-4 text-center border">
+					<div>
+						<p>Research & Website Content Strategy </p>
+					</div>
+				</div>
+				<div class="col-4 text-center border">
+					<div>
+						<p>Website Development & Interactive Design </p>
+					</div>
+				</div>
+			</div>
+		</div>
+
 
 
 	</body>
