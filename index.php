@@ -56,7 +56,7 @@
 					<div class="col-sm-12 text-center about-paragraph-panel">
 						<div>
 							<p>Americans are victims of violent crime. Let's help them get access to your services.</p>
-							<p>At our Title, We design and develop websites for survivor support agencies to better engage
+							<p>At our Title, we design and develop websites for survivor support agencies to better engage
 								with their clients
 								and improve the client's reporting and healing process.</p>
 						</div>
@@ -67,11 +67,49 @@
 
 
 		<!------------------------------------------------SECTION 4 - OUR SERVICES--------------------------------------->
-		<div>
-			<div class="container mx-5">
-				<p>OUR SERVICES</p>
+		<div class="services">
+			<div class="color-overlay">
+				<div class="container mb-5">
+					<div class="row">
+
+						<div class="col-xs-12 col-md-5">
+							<h3 class="mt-5">Here is some text about our services</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque arcu eget quam
+								vulputate, ut dictum sem rutrum. Sed viverra gravida massa, ut luctus urna aliquam et. Sed
+								maximus felis non augue congue, ut accumsan mauris condimentum. Sed vitae lorem et quam commodo
+								interdum vitae id metus.</p>
+							<a href="#">Contact us --></a>
+						</div>
+
+						<div class="col-xs-12 col-md-6">
+							<div class="service-blocks">
+								<div class="services-block-1"></div>
+								<a href="#"></a>
+								<div class="service-heading"></div>
+								<h4>Service Heading 1</h4>
+								<div class="services-block-2"></div>
+								<a href="#"></a>
+								<div class="service-heading"></div>
+								<h4>Service Heading 2</h4>
+
+								<div class="services-block-3"></div>
+								<a href="#"></a>
+								<div class="service-heading"></div>
+								<h4>Service Heading 3</h4>
+
+								<div class="services-block-4"></div>
+								<a href="#"></a>
+								<div class="service-heading"></div>
+								<h4>Service Heading 4</h4>
+							</div>
+						</div>
+
+					</div>
+				</div>
 			</div>
 		</div>
+
+
 		<div class="row" style="height: 300px;">
 			<div class="col-4 text-center border">
 				<div>
