@@ -17,32 +17,45 @@
 	</head>
 	<body>
 		<!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
-		<div class="container-fluid">
-			<nav class="navbar navbar-expand-xl bg-transparent m-4">
-				<a class="navbar-brand text-secondary" href="#">Our Working Title</a>
-				<button class="navbar-toggler border bg-secondary" type="button" data-toggle="collapse"
-						  data-target="#collapsibleNavbar">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
-					<ul class="navbar-nav">
-						<li class="nav-item"><a class="nav-link text-secondary px-3" href="#">Home</a></li>
-						<li class="nav-item"><a class="nav-link text-secondary px-3" href="#">About</a></li>
-						<li class="nav-item"><a class="nav-link text-secondary px-3" href="#">Our Services</a></li>
-						<li class="nav-item"><a class="nav-link text-secondary px-3" href="#">Our Process</a></li>
-						<li class="nav-item"><a class="nav-link text-secondary px-3" href="#">Contact</a></li>
-					</ul>
-				</div>
-			</nav>
-		</div>
-
-		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
-		<div class="jumbotron jumbotron-fluid">
-			<div class="container">
-				<h1>Our Working Title</h1>
-				<p>We help you better care for survivors</p>
+		<section>
+			<div class="container-fluid">
+				<nav class="navbar navbar-expand-md bg-transparent m-4">
+					<a class="navbar-brand text-white" href="#">Our Working Logo</a>
+					<button class="navbar-toggler border bg-secondary" type="button" data-toggle="collapse"
+							  data-target="#collapsibleNavbar">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+						<ul class="navbar-nav">
+							<li class="nav-item"><a class="nav-link text-white px-3" href="#">Home</a></li>
+							<li class="nav-item"><a class="nav-link text-white px-3" href="#">About</a></li>
+							<li class="nav-item"><a class="nav-link text-white px-3" href="#">Our Services</a></li>
+							<li class="nav-item"><a class="nav-link text-white px-3" href="#">Our Process</a></li>
+							<li class="nav-item"><a class="nav-link text-white px-3" href="#">Contact</a></li>
+						</ul>
+					</div>
+				</nav>
 			</div>
-		</div>
+		</section>
+		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
+		<section>
+			<div class="jumbotron jumbotron-fluid img-fluid">
+				<div class="banner-overlay"></div>
+				<div class="banner-overlay2"></div>
+				<div class="container mx-5 my-5">
+
+					<div class="row banner-text">
+						<div class="col banner-title">Our Working Title</div>
+					</div>
+
+						<div class="row banner-text">
+							<div class="col banner-tag">We help you better care for survivors</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
 		<!------------------------------------------------SECTION 3 - ABOUT---------------------------------------------->
 		<div class="about-background">
 			<div class="container mb-5">
