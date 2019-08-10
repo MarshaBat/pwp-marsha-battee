@@ -62,7 +62,7 @@
 				<div class="row">
 					<div class="col-sm-12 text-center about-stat-panel">
 						<div class="stat-number">
-							<p>1 <span>in</span> 10</p>
+							<p>1 <span>in</span> 100</p>
 						</div>
 					</div>
 
