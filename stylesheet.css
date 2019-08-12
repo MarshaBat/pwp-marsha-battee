@@ -6,7 +6,8 @@
 	background-size: cover;
 	top: 0;
 	bottom: 0;
-	height: 100vh;
+	height: 1000px;
+	width: 100%;
 	position: relative;
 	color: white;
 	margin-top: -100px;
@@ -48,18 +49,18 @@
 
 .stat-number {
 	font-family: "Arial Black";
-	font-size: 72px;
+	font-size: 150px;
 	color: #2fa0bb;
 	margin: 50px auto 0 auto;
 	display: table;
 }
 
 .stat-number span {
-	font-size: 26px;
+	font-size: 80px;
 }
 
 .about-paragraph-panel {
-	font-size: 22px
+	font-size: 28px
 }
 
 .about-background {
