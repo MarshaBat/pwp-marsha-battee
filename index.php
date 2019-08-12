@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,7 +18,7 @@
 		<!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
 		<section>
 			<div class="container-fluid">
-				<nav class="navbar navbar-expand-md bg-transparent m-4">
+				<nav class="navbar navbar-expand-md bg-transparent navbar-dark m-4">
 					<a class="navbar-brand text-white" href="#">Our Logo</a>
 					<button class="navbar-toggler border bg-secondary" type="button" data-toggle="collapse"
 							  data-target="#collapsibleNavbar">
@@ -54,7 +53,6 @@
 					</div>
 
 				</div>
-			</div>
 			</div>
 		</section>
 

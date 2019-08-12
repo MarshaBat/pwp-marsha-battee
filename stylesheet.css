@@ -1,11 +1,10 @@
+/*The 3 classes below places a banner image over the header with 2 overlays*/
+
 .jumbotron {
 	background-image: url(groupphoto2.jpg);
-	background-attachment: scroll;
-	background-position: center center;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
-	top: 0;
-	bottom: 0;
 	height: 100vh;
 	position: relative;
 	color: white;
@@ -35,6 +34,7 @@
 	opacity: 0.3;
 }
 
+/*This is ________________________ */
 
 .banner-title {
 
