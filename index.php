@@ -198,7 +198,7 @@
 			<div class="banner-overlay4"></div>
 			<div class="container pt-3">
 
-				<h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
+				<h2 class="h1-responsive font-weight-bold text-center my-4">Contact Us</h2>
 				<p class="text-center w-responsive mx-auto mb-5">Ready to get started on your website design? Let's us know,
 					and we'll get back to you within 24 hours to discuss your project.</p>
 
