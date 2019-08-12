@@ -120,17 +120,15 @@
 
 
 .footer {
-	background-image: url(groupphoto1.jpg);
+	background-image: url(groupphoto3.jpg);
 	background-attachment: scroll;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	top: 0;
-	bottom: 0;
-	height: 100vh;
+	height: 70vh;
 	position: relative;
 	color: white;
-	margin-top: -90px;
+	margin-top: -15px;
 	z-index: -10;
 }
 
