@@ -37,26 +37,25 @@
 				</nav>
 			</div>
 		</section>
-		<!------------------------------------------------SECTION 1 - HOME----------------------------------------------->
+		<!------------------------------------------------SECTION 2 - HOME----------------------------------------------->
 		<section>
-			<div class="jumbotron jumbotron-fluid img-fluid">
+			<div class="jumbotron jumbotron-fluid img-fluid clear-fix">
 				<div class="banner-overlay"></div>
 				<div class="banner-overlay2"></div>
 				<div class="container mx-5 my-5">
-
 					<div class="row banner-text">
-						<div class="col banner-title">Website Company Name</div>
+						<div class="col-md-8 banner-title">
+							<h1>We help you <span>better care for</span> survivors.</h1>
+						</div>
 					</div>
-
-					<div class="row banner-text">
-						<div class="col banner-tag">We help you better care for survivors</div>
+					<div>
+						<a href='#'>
+							<button class="banner-button">LEARN MORE</button>
+						</a>
 					</div>
-
 				</div>
 			</div>
 		</section>
-
-
 		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
 		<section>
 			<div class="about-background">

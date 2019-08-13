@@ -34,6 +34,30 @@
 	opacity: 0.3;
 }
 
+h1 {
+	font-size: 70px;
+}
+
+.banner-title {
+	margin-top: 150px;
+}
+
+.banner-button {
+	background: #f3d373;
+	border: #f3d373;
+	letter-spacing: 0.05em;
+	color: #2e1e53;
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 60px;
+	padding-right: 60px;
+	margin-top: 20px;
+	margin-left: 0;
+	float: left;
+}
+
 /*This is ________________________ */
 
 .banner-title {
