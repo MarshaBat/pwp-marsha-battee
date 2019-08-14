@@ -5,12 +5,25 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
 				integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 		<!-- My Stylesheet -->
 		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
 		<title>Working Title for PWP</title>
 
 	</head>
@@ -45,12 +58,12 @@
 				<div class="container mx-5 my-5">
 					<div class="row banner-text">
 						<div class="col-md-8 banner-title">
-							<h1>We help you <span>better care for</span> survivors.</h1>
+							<h1 class="animated zoomIn">We help you <span>better care for</span> survivors.</h1>
 						</div>
 					</div>
 					<div>
 						<a href='#'>
-							<button class="banner-button">LEARN MORE</button>
+							<button class="banner-button animated zoomIn">LEARN MORE</button>
 						</a>
 					</div>
 				</div>
@@ -201,7 +214,7 @@
 
 				<div class="row">
 					<div class="col-md-9 mb-md-0 mb-5">
-						<form id="contact-form" name="contact-form" action="#" method="POST">
+						<form id="contact-form" name="contact-form" action="mailer.php" method="POST">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="md-form mb-0">
@@ -237,6 +250,7 @@
 								</div>
 							</div>
 						</form>
+						<div id="output-area"></div>
 
 						<div class="text-center text-md-left">
 							<button type="button" class="btn btn-info">Submit</button>
