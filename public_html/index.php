@@ -21,7 +21,7 @@
 				integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 		<!-- My Stylesheet -->
-		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
 		<title>Working Title for PWP</title>
@@ -214,7 +214,7 @@
 
 				<div class="row">
 					<div class="col-md-9 mb-md-0 mb-5">
-						<form id="contact-form" name="contact-form" action="mailer.php" method="POST">
+						<form id="contact-form" name="contact-form" action="../php/index.php" method="POST">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="md-form mb-0">

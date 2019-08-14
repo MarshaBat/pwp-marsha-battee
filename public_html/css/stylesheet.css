@@ -1,7 +1,7 @@
 /*The 3 classes below places a banner image over the header with 2 overlays*/
 
 .jumbotron {
-	background-image: url(public_html/documentation/images/groupphoto2.jpg);
+	background-image: url(../documentation/images/groupphoto2.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -96,7 +96,7 @@ h1 {
 
 .services {
 	background: #f3f3f3;
-	background-image: url("public_html/documentation/images/pwp-b-image.jpg");
+	background-image: url("../documentation/images/pwp-b-image.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -144,7 +144,7 @@ h1 {
 
 
 .footer {
-	background-image: url(public_html/documentation/images/groupphoto3.jpg);
+	background-image: url(../documentation/images/groupphoto3.jpg);
 	background-attachment: scroll;
 	background-position: center center;
 	background-repeat: no-repeat;
