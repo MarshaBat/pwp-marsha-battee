@@ -55,7 +55,7 @@
 			<div class="jumbotron jumbotron-fluid img-fluid clear-fix">
 				<div class="banner-overlay"></div>
 				<div class="banner-overlay2"></div>
-				<div class="container mx-5 my-5">
+				<div class="container my-5">
 					<div class="row banner-text">
 						<div class="col-md-8 banner-title">
 							<h1 class="animated zoomIn">We help you <span>better care for</span> survivors.</h1>
