@@ -25,7 +25,7 @@
 			<ul>
 				<li><a href="https://www.unhcr.org/fr-fr/monpaysestuncamp/">Inspiration: UNHCR Home Page</a></li>
 			</ul>
-			<img src="bannerimage1.jpg" alt="banner example at uhncr.org">
+			<img src="images/bannerimage1.jpg" alt="banner example at uhncr.org">
 
 		<h4>About</h4>
 			<p>This section, on a nondescript background, will include our golden circle-- a brief statement on our why,
@@ -34,14 +34,14 @@
 			<ul>
 				<li><a href="https://thebossynurse.com/">Example: About Section</a></li>
 			</ul>
-			<img src="aboutsection1.jpg" alt="about section example">
+			<img src="images/aboutsection1.jpg" alt="about section example">
 
 		<h4>Our Services</h4>
 			<p>This section will list 3-6 of our services in a color block format (at least 3, max 6).</p>
 			<ul>
 				<li><a href="https://rainn.org">Inspiration: RAINN</a></li>
 			</ul>
-			<img src="colorblock1.jpg" alt="color block image from rainn.org">
+			<img src="images/colorblock1.jpg" alt="color block image from rainn.org">
 
 
 			<h4>Our Process</h4>
@@ -51,7 +51,7 @@
 			<ul>
 				<li><a href="https://www.apple.com/apple-watch-series-4/">Example: Vector Images</a></li>
 			</ul>
-			<img src="vectorimage1.jpg" alt="vector image from apple.com">
+			<img src="images/vectorimage1.jpg" alt="vector image from apple.com">
 
 
 			<h4>Portfolio</h4>
@@ -73,8 +73,8 @@
 		<div>
 			<h3>WIREFRAMES</h3>
 			<p>Wireframes created using Balsamiq. Animation reserved for web layout. Little to no animation will be provided on the mobile layout.</p>
-			<img src="marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee" width="800"><br>
-			<img src="marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee" width="400">
+			<img src="images/marsha-pwp-cell-wireframe-072919-1.png" alt="pwp cell wireframe - marsha battee" width="800"><br>
+			<img src="images/marsha-pwp-wireframe-072919-resized.jpg" alt="pwp wireframe - marsha battee" width="400">
 
 		</div>
 
