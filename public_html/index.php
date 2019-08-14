@@ -5,10 +5,18 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+		<script
+			src="https://code.jquery.com/jquery-3.4.1.min.js"
+			integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+			crossorigin="anonymous"></script>
+
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
@@ -214,7 +222,8 @@
 
 				<div class="row">
 					<div class="col-md-9 mb-md-0 mb-5">
-						<form id="contact-form" name="contact-form" action="../php/index.php" method="POST">
+
+						<form id="contact-form" name="contact-form" action="../php/" method="POST">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="md-form mb-0">
@@ -249,13 +258,21 @@
 									</div>
 								</div>
 							</div>
+
+							<!-- reCAPTCHA -->
+							<div class="g-recaptcha mt-4" data-sitekey="6LfB6LIUAAAAAKOe9Op74f-HywjO0D-vWUgHkQRa"></div>
+
+							<div class="text-center text-md-left mt-4">
+								<button type="submit" class="btn btn-info contact-button">SUBMIT</button>
+							</div>
+							<div class="status"></div>
 						</form>
+
 						<div id="output-area"></div>
 
-						<div class="text-center text-md-left">
-							<button type="button" class="btn btn-info">Submit</button>
-						</div>
-						<div class="status"></div>
+
+
+
 					</div>
 
 					<div class="col-md-3 text-center">
