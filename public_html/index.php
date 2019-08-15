@@ -149,63 +149,57 @@
 		</section>
 
 		<!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
-		<section class="card-deck-background">
-			<div class="container">
-				<div class="card-deck">
-					<div class="card mt-5 bg-transparent border-0">
-						<img src="..." class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">DISCOVERY</h5>
-							<p class="card-text">This card has supporting text below as a natural lead-in to additional
-								content.</p>
-						</div>
-					</div>
-					<div class="card mt-5 bg-transparent border-0">
-						<img src="..." class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">RESEARCH & PLAN</h5>
-							<p class="card-text">This card has supporting text below as a natural lead-in to additional
-								content.</p>
-						</div>
-					</div>
-					<div class="card mt-5 bg-transparent border-0">
-						<img src="..." class="card-img-top" alt="...">
-						<div class="card-body">
-							<h5 class="card-title">WEBSITE DESIGN</h5>
-							<p class="card-text">This card has supporting text below as a natural lead-in to additional
-								content.</p>
-						</div>
-					</div>
-				</div>
+		<section class="bg-transparent our-process">
+			<div class="container my-5 py-5">
+				<div class="row text-center mt-5">
 
-				<div>
-					<div class="card-deck mt-5">
-						<div class="card mb-5 bg-transparent border-0">
-							<img src="" class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">WEBSITE DEVELOPMENT</h5>
-								<p class="card-text">This card has supporting text below as a natural lead-in to additional
-									content.</p>
-							</div>
-						</div>
-						<div class="card mb-5 bg-transparent border-0">
-							<img src="..." class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">GO LIVE!</h5>
-								<p class="card-text">This card has supporting text below as a natural lead-in to additional
-									content.</p>
-							</div>
-						</div>
-						<div class="card mb-5 bg-transparent border-0">
-							<img src="..." class="card-img-top" alt="...">
-							<div class="card-body">
-								<h5 class="card-title">MAINTENANCE & UPDATES</h5>
-								<p class="card-text">This card has supporting text below as a natural lead-in to additional
-									content.</p>
-							</div>
-						</div>
+					<div class="col-md-4 mt-5">
+						<h5>
+							DISCOVERY
+						</h5>
+						<p>This is text</p>
 					</div>
-				</div>
+
+					<div class="col-md-4 mt-5">
+						<h5>
+							RESEARCH & PLAN
+						</h5>
+						<p>This is text</p>
+					</div>
+
+					<div class="col-md-4 mt-5">
+						<h5>
+							WEBSITE DESIGN
+						</h5>
+						<p>This is text</p>
+					</div>
+
+
+
+					<div class="col-md-4 mt-5">
+						<h5>
+							WEBSITE DEVELOPMENT
+						</h5>
+						<p>This is text</p>
+					</div>
+
+					<div class="col-md-4 mt-5">
+						<h5>
+							GO LIVE!
+						</h5>
+						<p>This is text</p>
+					</div>
+
+					<div class="col-md-4 mt-5">
+						<h5>
+							MAINTENANCE & UPDATES
+						</h5>
+						<p>This is text</p>
+					</div>
+
+
+				</>
+			</div>
 		</section>
 		<!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------>
 
@@ -269,8 +263,6 @@
 						</form>
 
 						<div id="output-area"></div>
-
-
 
 
 					</div>
