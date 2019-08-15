@@ -151,54 +151,64 @@
 		<!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
 		<section class="bg-transparent our-process">
 			<div class="container my-5 py-5">
-				<div class="row text-center mt-5">
+				<div class="row text-center">
 
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/discovery-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							DISCOVERY
 						</h5>
-						<p>This is text</p>
+						<p>Let's collaborate. Our onboarding shows you how we'll bring your ideas to life by examining
+							solutions that	match your needs.</p>
 					</div>
 
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/research-plan-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							RESEARCH & PLAN
 						</h5>
-						<p>This is text</p>
+						<p>Let's prepare. Here is where we'll focus on the specific goals for your project. We learn your why
+							and focus on the clients and stakeholders you serve. </p>
 					</div>
 
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/design-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							WEBSITE DESIGN
 						</h5>
-						<p>This is text</p>
+						<p>Let's get creative. We work closely with you and your team to gain insight on your branding and
+							design preferences.</p>
 					</div>
 
-
-
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/develop-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							WEBSITE DEVELOPMENT
 						</h5>
-						<p>This is text</p>
+						<p>Let's build. We'll bring your project to life, producing a website you can be proud of and better
+							engage survivors who need you most.</p>
 					</div>
 
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/go-live-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							GO LIVE!
 						</h5>
-						<p>This is text</p>
+						<p>Let's launch. Your website goes live. Celebrations are in order. We'll give you strategy on getting
+							the word out about your new looks.</p>
 					</div>
 
 					<div class="col-md-4 mt-5">
+						<img src="documentation/images/maintenance-vector-pwp.png" alt="" width="100px" class="mb-3">
 						<h5>
 							MAINTENANCE & UPDATES
 						</h5>
-						<p>This is text</p>
+						<p>Let's keep you current. We offer website hosting plans that includes frequent maintenace, updates
+							and development time.</p>
 					</div>
+				</div>
 
 
-				</>
 			</div>
 		</section>
 		<!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------>
