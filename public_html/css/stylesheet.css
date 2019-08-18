@@ -34,7 +34,7 @@
 	opacity: 0.3;
 }
 
-h1 {
+h2.our-process {
 	font-size: 70px;
 }
 
@@ -58,28 +58,12 @@ h1 {
 	float: left;
 }
 
-/*This is ________________________ */
-
-.banner-title {
-
-
-}
-
-.banner-tag {
-
-}
-
-
-.stat-number {
+.about-header {
 	font-family: "Arial Black";
-	font-size: 150px;
 	color: #2fa0bb;
+	font-size: 50px;
 	margin: 50px auto 0 auto;
 	display: table;
-}
-
-.stat-number span {
-	font-size: 80px;
 }
 
 .about-paragraph-panel {
@@ -92,6 +76,11 @@ h1 {
 	margin-top: -50px;
 	margin-bottom: -50px;
 	padding-bottom: 50px;
+}
+
+.process-header-text {
+	color: #2e1e53;
+	font-weight: bolder;
 }
 
 .services {
@@ -126,7 +115,6 @@ h1 {
 	background: #2e1e53;
 	position: relative;
 	transition: .35s;
-
 }
 
 .our-process {
@@ -138,12 +126,7 @@ h1 {
 .card {
 	color: #000000;
 	text-align: center;
-
 }
-
-.card-deck-margins {
-}
-
 
 .footer {
 	background-image: url(../documentation/images/groupphoto3.jpg);
@@ -196,7 +179,4 @@ h1 {
 	border-radius: 0;
 }
 
-.input-field [type=text] {
-	color: white;
-}
 

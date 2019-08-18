@@ -65,7 +65,7 @@
 				<div class="banner-overlay2"></div>
 				<div class="container my-5">
 					<div class="row banner-text">
-						<div class="col-md-8 banner-title">
+						<div class="col-md-6 banner-title">
 							<h1 class="animated zoomIn">We help you <span>better care for</span> survivors.</h1>
 						</div>
 					</div>
@@ -80,20 +80,21 @@
 		<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
 		<section>
 			<div class="about-background">
-				<div class="container mb-5">
+				<div class="container mb-3">
 					<div class="row">
 						<div class="col-sm-12 text-center about-stat-panel">
-							<div class="stat-number">
-								<p>1 <span>in</span> 100</p>
+							<div>
+								<p class="about-header">We Create Websites</p>
 							</div>
 						</div>
 
 						<div class="col-sm-12 text-center about-paragraph-panel">
 							<div>
-								<p>Americans are victims of violent crime.</p>
-								<p>Let's help them get access to your services.</p>
-								<p>At our Title, we design and develop websites for survivor support agencies to better engage
-									with your clients help you improve the client's reporting and healing process.</p>
+								<p>We design and develop bold, innovative technology solutions to help survivor support agencies
+									reach out and engage with their clients during their reporting and healing process. </p>
+								<img class="img-fluid" src="documentation/images/webvector.png" alt="website images">
+								<p>When you work with Vision Creative, you will be working with a team of professionals
+									dedicated to mobile-first, responsive website design.</p>
 							</div>
 						</div>
 					</div>
@@ -151,6 +152,11 @@
 		<!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
 		<section class="bg-transparent our-process">
 			<div class="container my-5 py-5">
+				<div class="h2">
+					<h2 class="process-header-text">OUR PROCESS</h2>
+				</div>
+
+
 				<div class="row text-center">
 
 					<div class="col-md-4 mt-5">
@@ -220,7 +226,7 @@
 			<div class="banner-overlay4"></div>
 			<div class="container pt-3">
 
-				<h2 class="h1-responsive font-weight-bold text-center my-4">Contact Us</h2>
+				<h2 class="h1-responsive font-weight-bold text-center my-4">CONTACT US</h2>
 				<p class="text-center w-responsive mx-auto mb-5">Ready to get started on your website design? Let's us know,
 					and we'll get back to you within 24 hours to discuss your project.</p>
 
