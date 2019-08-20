@@ -1,5 +1,9 @@
 /*The 3 classes below places a banner image over the header with 2 overlays*/
 
+a:hover, a:active {
+	background-color: #f3d373;
+}
+
 .jumbotron {
 	background-image: url(../documentation/images/groupphoto2.jpg);
 	background-attachment: fixed;
@@ -159,7 +163,7 @@ h5 {
 	background-color: transparent;
 	width: 300px;
 	height: 300px;
-	border: 1px solid #f1f1f1;
+	/*border: 1px solid #f1f1f1;*/
 	perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 

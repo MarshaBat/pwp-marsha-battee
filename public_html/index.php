@@ -37,7 +37,7 @@
 </head>
 <body>
 <!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
-<section>
+<section id="home">
 	<div class="container-fluid">
 		<nav class="navbar navbar-expand-md bg-transparent navbar-dark m-4">
 			<a class="navbar-brand text-white" href="#">Our Logo</a>
@@ -47,12 +47,12 @@
 			</button>
 			<div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
 				<ul class="navbar-nav">
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">Home</a></li>
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">About</a></li>
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">Our Services</a></li>
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">Our Process</a></li>
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">Portfolio</a></li>
-					<li class="nav-item"><a class="nav-link text-white px-3" href="#">Contact</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#home">Home</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#about">About</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#services">Our Services</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#process">Our Process</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#portfolio">Portfolio</a></li>
+					<li class="nav-item"><a class="nav-link text-white px-3" href="#contact">Contact</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -78,7 +78,7 @@
 	</div>
 </section>
 <!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
-<section>
+<section id="about">
 	<div class="about-background">
 		<div class="container mb-3">
 			<div class="row">
@@ -102,7 +102,7 @@
 	</div>
 </section>
 <!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------->
-<section>
+<section id="services">
 	<div class="services-section my-5">
 		<div class="color-overlay">
 			<div class="container-fluid">
@@ -150,7 +150,7 @@
 </section>
 
 <!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
-<section class="bg-transparent our-process mb-5">
+<section id="process" class="bg-transparent our-process mb-5">
 	<div class="container my-5 py-5">
 		<div class="h2">
 			<h2 class="process-header-text">Our Process</h2>
@@ -214,12 +214,12 @@
 	</div>
 </section>
 <!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------------>
-<section>
+<section id="portfolio">
 	<div class="my-5">
 		<div class="portfolio-background">
-			<div class="container">
+			<div class="container py-5">
 
-				<div>
+				<div class="pb-5">
 					<h2 class="portfolio-header-text">Portfolio</h2>
 				</div>
 
@@ -229,7 +229,7 @@
 						<div class="flip-card mb-5">
 							<div class="flip-card-inner">
 								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+									<img src="https://placekitten.com/300/300" alt="Avatar">
 								</div>
 								<div class="flip-card-back">
 									<h1>Project #1</h1>
@@ -244,7 +244,7 @@
 						<div class="flip-card mb-5">
 							<div class="flip-card-inner">
 								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+									<img src="https://placekitten.com/300/300" alt="Avatar">
 								</div>
 								<div class="flip-card-back">
 									<h1>Project #2</h1>
@@ -259,7 +259,7 @@
 						<div class="flip-card mb-5">
 							<div class="flip-card-inner">
 								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+									<img src="https://placekitten.com/300/300" alt="Avatar">
 								</div>
 								<div class="flip-card-back">
 									<h1>Project #3</h1>
@@ -277,10 +277,10 @@
 </section>
 
 <!------------------------------------------------SECTION 6 - CONTACT FORM--------------------------------------------->
-<section class="footer">
+<section id="contact" class="footer">
 	<div class="banner-overlay3"></div>
 	<div class="banner-overlay4"></div>
-	<div class="container pt-3">
+	<div class="container py-5">
 
 		<h2 class="h1-responsive contact-us-header font-weight-bold text-center my-4">Contact Us</h2>
 		<p class="text-center w-responsive mx-auto mb-5">Ready to get started on your website design? Let's us know,
