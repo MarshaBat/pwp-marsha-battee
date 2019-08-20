@@ -109,6 +109,17 @@
 
 
 				<div>
+					<div class="about-section-para">
+						<h3>We serve you so that you may serve your clients</h3>
+						<p>We offer a number of services to ensure your message is seen by those who need you most. From
+							mobile-first website design to content strategy, branding and hosting, we're a full
+							service firm ready to collaborate with your team and provide a product that suites you and
+							your needs.</p>
+						<a href="#">Let's work together to help you reach your goals --></a>
+					</div>
+				</div>
+
+				<div>
 					<div class="row services-section-boxes1">
 						<div>
 							<div class="col-lg services-block-1"></div>
@@ -132,16 +143,6 @@
 					</div>
 				</div>
 
-				<div>
-					<div class="about-section-para">
-						<h3>We serve you so that you may serve your clients</h3>
-						<p>We offer a number of services to ensure your message is seen by those who need you most. From
-							mobile-first website design to content strategy, branding and hosting, we're a full
-							service firm ready to collaborate with your team and provide a product that suites you and
-							your needs.</p>
-						<a href="#">Let's work together to help you reach your goals --></a>
-					</div>
-				</div>
 
 			</div>
 		</div>
@@ -149,83 +150,139 @@
 </section>
 
 <!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
-<section class="bg-transparent our-process">
+<section class="bg-transparent our-process mb-5">
 	<div class="container my-5 py-5">
 		<div class="h2">
-			<h2 class="process-header-text">OUR PROCESS</h2>
+			<h2 class="process-header-text">Our Process</h2>
 		</div>
-
-
 		<div class="row text-center">
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/discovery-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					DISCOVERY
 				</h5>
-				<p class="process-text">Let's collaborate. Our onboarding shows you how we'll bring your ideas to life by examining
+				<p class="process-text">Let's collaborate. Our onboarding shows you how we'll bring your ideas to life by
+					examining
 					solutions that match your needs.</p>
 			</div>
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/research-plan-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					RESEARCH & PLAN
 				</h5>
-				<p class="process-text">Let's prepare. Here is where we'll focus on the specific goals for your project. We learn your why
+				<p class="process-text">Let's prepare. Here is where we'll focus on the specific goals for your project. We
+					learn your why
 					and focus on the clients and stakeholders you serve. </p>
 			</div>
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/design-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					WEBSITE DESIGN
 				</h5>
-				<p class="process-text">Let's get creative. We work closely with you and your team to gain insight on your branding and
+				<p class="process-text">Let's get creative. We work closely with you and your team to gain insight on your
+					branding and
 					design preferences.</p>
 			</div>
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/develop-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					WEBSITE DEVELOPMENT
 				</h5>
-				<p class="process-text">Let's build. We'll bring your project to life, producing a website you can be proud of and better
+				<p class="process-text">Let's build. We'll bring your project to life, producing a website you can be proud
+					of and better
 					engage survivors who need you most.</p>
 			</div>
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/go-live-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					GO LIVE!
 				</h5>
-				<p class="process-text">Let's launch. Your website goes live. Celebrations are in order. We'll give you strategy on getting
+				<p class="process-text">Let's launch. Your website goes live. Celebrations are in order. We'll give you
+					strategy on getting
 					the word out about your new looks.</p>
 			</div>
-
 			<div class="col-lg-4 mt-5">
 				<img src="documentation/images/maintenance-vector-pwp.png" alt="" width="100px" class="mb-3">
 				<h5>
 					MAINTENANCE & UPDATES
 				</h5>
-				<p class="process-text">Let's keep you current. We offer website hosting plans that includes frequent maintenace, updates
+				<p class="process-text">Let's keep you current. We offer website hosting plans that includes frequent
+					maintenace, updates
 					and development time.</p>
 			</div>
 		</div>
-
-
 	</div>
 </section>
-<!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------>
+<!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------------>
+<section>
+	<div class="my-5">
+		<div class="portfolio-background">
+			<div class="container">
 
+				<div>
+					<h2 class="portfolio-header-text">Portfolio</h2>
+				</div>
 
-<!------------------------------------------------SECTION 6 - CONTACT FORM--------------------------------------->
+				<div class="row">
+
+					<div class="col-md-4">
+						<div class="flip-card mb-5">
+							<div class="flip-card-inner">
+								<div class="flip-card-front">
+									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+								</div>
+								<div class="flip-card-back">
+									<h1>Project #1</h1>
+									<p>//Signs on 66//</p>
+									<p>More Sample Text</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4">
+						<div class="flip-card mb-5">
+							<div class="flip-card-inner">
+								<div class="flip-card-front">
+									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+								</div>
+								<div class="flip-card-back">
+									<h1>Project #2</h1>
+									<p>//Wireframes//</p>
+									<p>More Sample Text</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4">
+						<div class="flip-card mb-5">
+							<div class="flip-card-inner">
+								<div class="flip-card-front">
+									<img src="https://placekitten.com/300/300" alt="Avatar" class="avatar">
+								</div>
+								<div class="flip-card-back">
+									<h1>Project #3</h1>
+									<p>//3rd Project//</p>
+									<p>More Sample Text</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!------------------------------------------------SECTION 6 - CONTACT FORM--------------------------------------------->
 <section class="footer">
 	<div class="banner-overlay3"></div>
 	<div class="banner-overlay4"></div>
 	<div class="container pt-3">
 
-		<h2 class="h1-responsive font-weight-bold text-center my-4">CONTACT US</h2>
+		<h2 class="h1-responsive contact-us-header font-weight-bold text-center my-4">Contact Us</h2>
 		<p class="text-center w-responsive mx-auto mb-5">Ready to get started on your website design? Let's us know,
 			and we'll get back to you within 24 hours to discuss your project.</p>
 
@@ -298,6 +355,7 @@
 		</div>
 	</div>
 </section>
+
 
 </body>
 </html>
