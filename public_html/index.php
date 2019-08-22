@@ -18,7 +18,7 @@
 	<script type="text/javascript"
 			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
-	<!-- Your JavaScript Form Validator -->
+	<!-- JavaScript Form Validator -->
 	<script src="js/form-validate.js"></script>
 
 	<!-- Google reCAPTCHA -->
@@ -33,16 +33,17 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
 	<title>Working Title for PWP</title>
-
 </head>
+
+<!-----------------------------------------------------SECTION 1 - NAVBAR---------------------------------------------->
 <body>
-<!------------------------------------------------SECTION 1 - HEADER---------------------------------------------->
 <section id="home">
 	<div class="container-fluid">
-		<nav class="navbar navbar-expand-md bg-transparent navbar-dark m-4">
-			<a class="navbar-brand text-white" href="#">Our Logo</a>
-			<button class="navbar-toggler border bg-secondary" type="button" data-toggle="collapse"
-					  data-target="#collapsibleNavbar">
+		<nav class="navbar navbar-expand-lg navbar-dark m-2">
+			<a class="navbar-brand" href="#">
+				<img src="documentation/images/ribbon.png" width="50" height="50" alt="logo">
+			</a>
+			<button class="navbar-toggler border" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
@@ -58,7 +59,7 @@
 		</nav>
 	</div>
 </section>
-<!------------------------------------------------SECTION 2 - HOME----------------------------------------------->
+<!-----------------------------------------SECTION 2 - HOME LANDING PAGE----------------------------------------------->
 <section>
 	<div class="jumbotron jumbotron-fluid img-fluid clear-fix">
 		<div class="banner-overlay"></div>
@@ -66,7 +67,8 @@
 		<div class="container my-5">
 			<div class="row banner-text">
 				<div class="col-md-6 banner-title">
-					<h1 class="animated zoomIn">We help you <span>better care for</span> survivors.</h1>
+					<h1 class="animated zoomIn">We give you an online presence that helps you <span>better care for</span>
+						survivors.</h1>
 				</div>
 			</div>
 			<div>
@@ -77,24 +79,27 @@
 		</div>
 	</div>
 </section>
-<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------->
+<!------------------------------------------------SECTION 2 - ABOUT---------------------------------------------------->
 <section id="about">
 	<div class="about-background">
 		<div class="container mb-3">
 			<div class="row">
-				<div class="col-sm-12 text-center about-stat-panel">
+				<div class="col-sm-12 text-center mt-5 about-stat-panel">
 					<div>
-						<p class="about-header">We Create Websites</p>
+						<img class="img-fluid" src="documentation/images/webvector.png" alt="website images" width="300px">
 					</div>
 				</div>
 
 				<div class="col-sm-12 text-center about-paragraph-panel">
 					<div>
-						<p>We design and develop bold, innovative technology solutions to help survivor support agencies
-							reach out and engage with their clients during their reporting and healing process. </p>
-						<img class="img-fluid" src="documentation/images/webvector.png" alt="website images">
-						<p>When you work with Vision Creative, you will be working with a team of professionals
-							dedicated to mobile-first, responsive website design.</p>
+						<p class="mt-3">Vision Creative is a full-service creative firm. We design, develop and maintain
+							mobile-first, responsive
+							websites to help survivor support agencies reach out and engage with their clients during their
+							reporting and healing process. </p>
+						<p class="divider">-----------------------------</p>
+						<p>When you work with us, you will be working with a team of professionals dedicated to building bold
+							innovative technology solutions to help you realize your mission and reach your organizational
+							goals.</p>
 					</div>
 				</div>
 			</div>
@@ -102,24 +107,23 @@
 	</div>
 </section>
 <!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------->
-<section id="services">
+<section>
 	<div class="services-section my-5">
 		<div class="color-overlay">
 			<div class="container-fluid">
 
 
 				<div>
-					<div class="about-section-para">
-						<h3>We serve you so that you may serve your clients</h3>
-						<p>We offer a number of services to ensure your message is seen by those who need you most. From
-							mobile-first website design to content strategy, branding and hosting, we're a full
-							service firm ready to collaborate with your team and provide a product that suites you and
-							your needs.</p>
-						<a href="#">Let's work together to help you reach your goals --></a>
+					<div class="services">
+						<h3 class="services-section-header">We serve you so that you may serve your clients</h3>
+						<p class="services-section-para pt-3">We offer a number of services to ensure your message is seen by
+							those who need you most. We're a full service firm ready to collaborate with your team and provide
+							a product that suites you and	your needs.</p>
 					</div>
 				</div>
 
-				<div>
+
+				<!--<div>
 					<div class="row services-section-boxes1">
 						<div>
 							<div class="col-lg services-block-1"></div>
@@ -141,7 +145,7 @@
 							<h4 class="block-background">Research and Content Strategy</h4>
 						</div>
 					</div>
-				</div>
+				</div>-->
 
 
 			</div>
@@ -150,7 +154,7 @@
 </section>
 
 <!------------------------------------------------SECTION 4 - OUR PROCESS--------------------------------------->
-<section id="process" class="bg-transparent our-process mb-5">
+<section id="process" class="bg-transparent our-process">
 	<div class="container my-5 py-5">
 		<div class="h2">
 			<h2 class="process-header-text">Our Process</h2>
@@ -214,64 +218,61 @@
 	</div>
 </section>
 <!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------------>
-<section id="portfolio">
-	<div class="my-5">
-		<div class="portfolio-background">
-			<div class="container py-5">
+<section class="portfolio-background">
+	<div class="container pb-5 pt-3">
+		<div class="my-3">
 
-				<div class="pb-5">
-					<h2 class="portfolio-header-text">Portfolio</h2>
+			<div class="pb-5">
+				<h2 class="portfolio-header-text">Portfolio</h2>
+			</div>
+
+			<div class="row justify-content-center">
+				<div class="col-md-4">
+					<div class="flip-card mb-5">
+						<div class="flip-card-inner">
+							<div class="flip-card-front">
+								<img src="https://placekitten.com/300/300" alt="Avatar">
+							</div>
+							<div class="flip-card-back">
+								<h1>Project #1</h1>
+								<p>//Signs on 66//</p>
+								<p>More Sample Text</p>
+							</div>
+						</div>
+					</div>
 				</div>
 
-				<div class="row">
-
-					<div class="col-md-4">
-						<div class="flip-card mb-5">
-							<div class="flip-card-inner">
-								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar">
-								</div>
-								<div class="flip-card-back">
-									<h1>Project #1</h1>
-									<p>//Signs on 66//</p>
-									<p>More Sample Text</p>
-								</div>
+				<div class="col-md-4">
+					<div class="flip-card mb-5">
+						<div class="flip-card-inner">
+							<div class="flip-card-front">
+								<img src="https://placekitten.com/300/300" alt="Avatar">
+							</div>
+							<div class="flip-card-back">
+								<h1>Project #2</h1>
+								<p>//Wireframes//</p>
+								<p>More Sample Text</p>
 							</div>
 						</div>
 					</div>
+				</div>
 
-					<div class="col-md-4">
-						<div class="flip-card mb-5">
-							<div class="flip-card-inner">
-								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar">
-								</div>
-								<div class="flip-card-back">
-									<h1>Project #2</h1>
-									<p>//Wireframes//</p>
-									<p>More Sample Text</p>
-								</div>
+				<div class="col-md-4">
+					<div class="flip-card mb-5">
+						<div class="flip-card-inner">
+							<div class="flip-card-front">
+								<img src="https://placekitten.com/300/300" alt="Avatar">
+							</div>
+							<div class="flip-card-back">
+								<h1>Project #3</h1>
+								<p>//3rd Project//</p>
+								<p>More Sample Text</p>
 							</div>
 						</div>
 					</div>
-
-					<div class="col-md-4">
-						<div class="flip-card mb-5">
-							<div class="flip-card-inner">
-								<div class="flip-card-front">
-									<img src="https://placekitten.com/300/300" alt="Avatar">
-								</div>
-								<div class="flip-card-back">
-									<h1>Project #3</h1>
-									<p>//3rd Project//</p>
-									<p>More Sample Text</p>
-								</div>
-							</div>
-						</div>
-					</div>
-
 				</div>
 			</div>
+
 		</div>
 	</div>
 </section>
@@ -355,6 +356,18 @@
 		</div>
 	</div>
 </section>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+		  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+		  crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+		  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+		  crossorigin="anonymous"></script>
 
 
 </body>
