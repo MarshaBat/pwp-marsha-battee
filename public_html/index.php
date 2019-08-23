@@ -117,7 +117,7 @@
 
 				<div class="col-sm-12 text-center about-paragraph-panel">
 					<div>
-						<p class="mt-3">Vision Creative is a full-service creative firm. We design, develop and maintain
+						<p class="mt-3">Vision Creative is a full-service agency. We design, develop and maintain
 							mobile-first, responsive websites to help survivor support agencies reach out and engage with their
 							clients during their reporting and healing process. </p>
 						<img src="documentation/images/paint.png" class="pb-3" width="200">
@@ -239,7 +239,19 @@
 		</div>
 	</div>
 </section>
-<!------------------------------------------------SECTION 5 - PORTFOLIO------------------------------------------------>
+<!------------------------------------------------SECTION 5 - CALLOUT-------------------------------------------------->
+<section>
+	<div class="container-fluid text-center callout py-5">
+		<div class="callout-overlay"></div>
+		<div class="callout-overlay2"></div>
+		<div>
+			<p>Let <span><img src="documentation/images/logoVisionCreative.png" width="350" alt="background image" </span> design
+				and build your online presence.</p>
+			<img src="documentation/images/paint.png" class="pb-3" width="200">
+		</div>
+	</div>
+</section>
+<!------------------------------------------------SECTION 6 - PORTFOLIO------------------------------------------------>
 <section class="portfolio-background">
 	<div class="container pb-5 pt-3">
 		<div class="my-3">
@@ -299,7 +311,7 @@
 	</div>
 </section>
 
-<!------------------------------------------------SECTION 6 - CONTACT FORM--------------------------------------------->
+<!------------------------------------------------SECTION 7 - CONTACT FORM & FOOTER------------------------------------>
 <section id="contact" class="footer">
 	<div class="banner-overlay3"></div>
 	<div class="banner-overlay4"></div>
