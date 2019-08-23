@@ -41,7 +41,7 @@
 	<div class="container-fluid">
 		<nav class="navbar navbar-expand-lg navbar-dark m-2">
 			<a class="navbar-brand" href="#">
-				<img src="documentation/images/ribbon.png" width="50" height="50" alt="logo">
+				<img src="documentation/images/logoVisionCreative.png" width="150" alt="logo">
 			</a>
 			<button class="navbar-toggler border" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 				<span class="navbar-toggler-icon"></span>
@@ -60,13 +60,13 @@
 	</div>
 </section>
 
-			<!--<nav class="navbar navbar-expand-lg bg-transparent navbar-dark fixed-top scrolling-navbar m-2 bg-white">
-				<a class="navbar-brand" href="#">
-					<img src="documentation/images/ribbon.png" width="50" height="50" alt="logo">
-				</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>-->
+<!--<nav class="navbar navbar-expand-lg bg-transparent navbar-dark fixed-top scrolling-navbar m-2 bg-white">
+	<a class="navbar-brand" href="#">
+		<img src="documentation/images/ribbon.png" width="50" height="50" alt="logo">
+	</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>-->
 
 <!--			<div class="collapse navbar-collapse" id="navbarSupportedContent">-->
 <!--				<ul class="navbar-nav ml-auto">-->
@@ -92,14 +92,14 @@
 		<div class="container my-5">
 			<div class="row banner-text">
 				<div class="col-md-6 banner-title">
-					<h1 class="animated zoomIn">We give you an online presence that helps you <span>better care for</span>
-						survivors.</h1>
+					<h1 class="animated zoomIn">We give you an online presence that helps you better care for <span>survivors.</span>
+					</h1>
 				</div>
 			</div>
 			<div>
-				<a href='#'>
-					<button class="banner-button animated zoomIn">LEARN HOW</button>
-				</a>
+<!--				<a href='#'>-->
+<!--					<button class="banner-button animated zoomIn">LEARN HOW</button>-->
+<!--				</a>-->
 			</div>
 		</div>
 	</div>
@@ -119,8 +119,8 @@
 					<div>
 						<p class="mt-3">Vision Creative is a full-service creative firm. We design, develop and maintain
 							mobile-first, responsive websites to help survivor support agencies reach out and engage with their
-							clients during their	reporting and healing process. </p>
-						<p class="divider">-----------------------------</p>
+							clients during their reporting and healing process. </p>
+						<img src="documentation/images/paint.png" class="pb-3" width="200">
 						<p>When you work with us, you will be working with a team of professionals dedicated to building bold,
 							innovative technology solutions to help you realize your mission and reach your organizational
 							goals.</p>
@@ -130,13 +130,11 @@
 		</div>
 	</div>
 </section>
-<!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------->
+<!------------------------------------------------SECTION 3 - OUR SERVICES--------------------------------------------->
 <section>
 	<div class="services-section my-5">
 		<div class="color-overlay">
 			<div class="container-fluid">
-
-
 				<div>
 					<div class="services">
 						<h3 class="services-section-header">We serve you so that you may serve your clients</h3>

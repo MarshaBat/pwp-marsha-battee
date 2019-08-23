@@ -4,9 +4,6 @@ a:hover, a:active {
 	background-color: #f3d373;
 }
 
-.collapsible-body {
-	display: none;
-}
 /*----------------------------------------------------JUMBOTRON-------------------------------------------------------*/
 
 /*Banner image with 2 color overlays*/
@@ -143,6 +140,13 @@ a:hover, a:active {
 	text-align: center;
 }
 
+/*.process-header-text {*/
+/*	background-image: url(../documentation/images/paint.png);*/
+/*	background-position: center;*/
+/*	background-repeat: no-repeat;*/
+/*	padding-bottom: 50px;*/
+/*}*/
+
 h5 {
 	color: #7e3d88;
 }
@@ -169,6 +173,7 @@ h5 {
 	font-size: 50px;
 	text-align: center;
 }
+
 
 /*The flip card container */
 .flip-card {
