@@ -59,6 +59,31 @@
 		</nav>
 	</div>
 </section>
+
+			<!--<nav class="navbar navbar-expand-lg bg-transparent navbar-dark fixed-top scrolling-navbar m-2 bg-white">
+				<a class="navbar-brand" href="#">
+					<img src="documentation/images/ribbon.png" width="50" height="50" alt="logo">
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>-->
+
+<!--			<div class="collapse navbar-collapse" id="navbarSupportedContent">-->
+<!--				<ul class="navbar-nav ml-auto">-->
+<!--					<li class="nav-item active">-->
+<!--						<a class="nav-link text-white" href="#aboutMe">About Me <span class="sr-only">(current)</span></a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link text-white" href="#skills">Skills</a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link text-white" href="#portfolio">Portfolio</a>-->
+<!--					</li>-->
+<!--					<li class="nav-item">-->
+<!--						<a class="nav-link text-white" href="#contactWrapper">Contact Me</a>-->
+<!--					</li>-->
+<!--				</ul>-->
+<!--			</div>-->
 <!-----------------------------------------SECTION 2 - HOME LANDING PAGE----------------------------------------------->
 <section>
 	<div class="jumbotron jumbotron-fluid img-fluid clear-fix">
@@ -93,11 +118,10 @@
 				<div class="col-sm-12 text-center about-paragraph-panel">
 					<div>
 						<p class="mt-3">Vision Creative is a full-service creative firm. We design, develop and maintain
-							mobile-first, responsive
-							websites to help survivor support agencies reach out and engage with their clients during their
-							reporting and healing process. </p>
+							mobile-first, responsive websites to help survivor support agencies reach out and engage with their
+							clients during their	reporting and healing process. </p>
 						<p class="divider">-----------------------------</p>
-						<p>When you work with us, you will be working with a team of professionals dedicated to building bold
+						<p>When you work with us, you will be working with a team of professionals dedicated to building bold,
 							innovative technology solutions to help you realize your mission and reach your organizational
 							goals.</p>
 					</div>
@@ -118,7 +142,7 @@
 						<h3 class="services-section-header">We serve you so that you may serve your clients</h3>
 						<p class="services-section-para pt-3">We offer a number of services to ensure your message is seen by
 							those who need you most. We're a full service firm ready to collaborate with your team and provide
-							a product that suites you and	your needs.</p>
+							a product that suites you and your needs.</p>
 					</div>
 				</div>
 
@@ -226,7 +250,7 @@
 				<h2 class="portfolio-header-text">Portfolio</h2>
 			</div>
 
-			<div class="row justify-content-center">
+			<div class="row ml-4">
 				<div class="col-md-4">
 					<div class="flip-card mb-5">
 						<div class="flip-card-inner">
@@ -327,9 +351,9 @@
 					</div>
 
 					<!-- reCAPTCHA -->
-					<div class="g-recaptcha mt-4" data-sitekey="6LfB6LIUAAAAAKOe9Op74f-HywjO0D-vWUgHkQRa"></div>
+					<div class="g-recaptcha mt-4 block" data-sitekey="6LfB6LIUAAAAAKOe9Op74f-HywjO0D-vWUgHkQRa"></div>
 
-					<div class="text-center text-md-left mt-4">
+					<div class="text-center text-md-left mt-4 block">
 						<button type="submit" class="btn btn-info contact-button">SUBMIT</button>
 					</div>
 					<div class="status"></div>

@@ -1,7 +1,13 @@
+/*-----------------------------------------------------------NAVBAR---------------------------------------------------*/
 
 a:hover, a:active {
 	background-color: #f3d373;
 }
+
+.collapsible-body {
+	display: none;
+}
+/*----------------------------------------------------JUMBOTRON-------------------------------------------------------*/
 
 /*Banner image with 2 color overlays*/
 
@@ -132,7 +138,7 @@ a:hover, a:active {
 
 .process-header-text {
 	font-family: "Arial Black";
-	color: #4B0082;
+	color: #7e3d88;
 	font-size: 50px;
 	text-align: center;
 }
@@ -267,4 +273,7 @@ h5 {
 	border-radius: 0;
 }
 
+/*.block {*/
+/*	display: inline-block;*/
+/*}*/
 
