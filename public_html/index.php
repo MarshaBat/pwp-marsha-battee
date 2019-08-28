@@ -265,7 +265,7 @@
 					<div class="flip-card mb-5">
 						<div class="flip-card-inner">
 							<div class="flip-card-front">
-								<img src="https://placekitten.com/300/300" alt="Avatar">
+								<img src="documentation/images/grandview.png" alt="Avatar">
 							</div>
 							<div class="flip-card-back">
 								<h1>Project #1</h1>
